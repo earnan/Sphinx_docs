@@ -43,6 +43,7 @@ extensions = [
         'sphinx_markdown_tables',
         ######
         'sphinx.ext.autodoc',
+<<<<<<< HEAD
         'sphinx.ext.doctest',
         'sphinx.ext.intersphinx',
         'sphinx.ext.todo',
@@ -52,6 +53,17 @@ extensions = [
         'sphinx.ext.viewcode',
         'sphinx.ext.githubpages',
         'sphinxcontrib.fulltoc',
+=======
+        #'sphinx.ext.doctest',
+        #'sphinx.ext.intersphinx',
+        #'sphinx.ext.todo',
+        #'sphinx.ext.coverage',
+        #'sphinx.ext.mathjax',
+        #'sphinx.ext.ifconfig',
+        #'sphinx.ext.viewcode',
+        #'sphinx.ext.githubpages',
+        #'sphinxcontrib.fulltoc',
+>>>>>>> aa53a8c3f87862f9a1ee7a209e4efc0ef0a04d3d
 ]
 
 # Add any paths that contain templates here, relative to this directory.

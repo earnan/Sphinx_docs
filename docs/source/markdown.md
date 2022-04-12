@@ -6,7 +6,7 @@
 
 ​		本期我们来讲一下叶绿体基因组画图，常见的工具有**CPGAVAS2、OGDRAW、Chloroplot**等，其中**Chloroplot**拥有丰富的可选项以及鲜明的色彩选择方案，下面来介绍一下**Chloroplot**的网页版及windows下使用方法。
 
-![Chloroplot](D:/Sphinx/docs/source/img/20220224174154.png)
+
 
 
 ## 网页版使用
